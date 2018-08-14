@@ -7,7 +7,7 @@ namespace RegularExpression
     {
         static void Main(string[] args)
         {
-            UnitMod1.CatCatDemo();
+            UnitMod1.RepeatDemo();
         }
     }
 }
